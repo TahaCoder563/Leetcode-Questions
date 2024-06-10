@@ -1,3 +1,4 @@
+https://leetcode.com/submissions/detail/1283754501/
 class Solution {
 public:
     bool possibility(vector<int>& batteries,long long int mid,long long int target){
